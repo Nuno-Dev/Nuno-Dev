@@ -18,7 +18,7 @@ My name is Nuno Martins and I'm a passionate Front-End Developer from Lisbon.
 
 ---
 
-![](https://raw.githubusercontent.com/nuno-dev/github-stats-transparent/output/generated/languages.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuno-dev&layout=compact)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuno-dev&count_private=true&show_icons=true&include_all_commits=true)
 
