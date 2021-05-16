@@ -22,7 +22,7 @@ My name is Nuno Martins and I'm a passionate Front-End Developer from Lisbon.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuno-dev&count_private=true&show_icons=true&include_all_commits=true)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nuno-dev.nuno-dev)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nuno-dev&label=Profile%20views&color=0e75b6&style=flat" alt="nuno-dev" /> </p>
 
 [github]: https://github.com/nuno-dev
 [website]: https://nunodev.com
