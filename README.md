@@ -18,9 +18,10 @@ My name is Nuno Martins and I'm a passionate Front-End Developer from Lisbon.
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuno-dev&theme=nord&count_private=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuno-dev&hide=TeX&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nuno-dev&hide=TeX&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuno-dev&count_private=true&show_icons=true&include_all_commits=true)
+
 
 [github]: https://github.com/nuno-dev
 [website]: https://nunodev.com
