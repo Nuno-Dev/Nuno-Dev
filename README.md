@@ -4,7 +4,6 @@ My name is Nuno Martins and I'm a Software Engineer and competitive programmer f
 
 - 💻 Software Engineer @Unit4
 - 🎓 Studying Computer Science and Engineering at Instituto Superior Técnico
-- 👨‍💻 Passionate about coding and applying concepts to the real world.
 
 ## Tools and Languages
 [<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
