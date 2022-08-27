@@ -2,7 +2,8 @@
 
 My name is Nuno Martins and I'm a passionate Software Developer and competitive programmer from Lisbon, Portugal.
 
-- 🎓 Currently studying Computer Science and Engineering at Instituto Superior Técnico
+- 💻 Software Engineer @Unit4
+- 🎓 Studying Computer Science and Engineering at Instituto Superior Técnico
 - 👨‍💻 Passionate about coding and applying concepts to the real world.
 
 ## Tools and Languages
