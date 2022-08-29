@@ -2,7 +2,7 @@
 
 My name is Nuno Martins and I'm a Software Engineer and competitive programmer from Lisbon, Portugal.
 
-- 💻 Software Engineer @Unit4
+- 💻 Software Engineer @ Unit4
 - 🎓 Studying Computer Science and Engineering at Instituto Superior Técnico
 
 ## Tools and Languages
