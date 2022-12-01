@@ -17,9 +17,3 @@ My name is Nuno Martins and I'm a Software Engineer and competitive programmer f
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuno-dev&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuno-dev&count_private=true&show_icons=true&include_all_commits=true)
-
-[github]: https://github.com/nuno-dev
-[website]: https://nunodev.com
